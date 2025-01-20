@@ -1,4 +1,4 @@
-# flutter_test_app
+# flutter_google_map
 
 A new Flutter project.
 
